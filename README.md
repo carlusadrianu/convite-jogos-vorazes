@@ -5,7 +5,7 @@ Convite de aniversário temático **inspirado na saga Jogos Vorazes**, criado em
 ## 🔥 Demonstração
 
 Acesse aqui:  
-👉 [https://SEU-USUARIO.github.io/convite-jogos-vorazes/](https://SEU-USUARIO.github.io/convite-jogos-vorazes/)
+👉 [https://carlusadrianu.github.io/convite-jogos-vorazes/](https://SEU-USUARIO.github.io/convite-jogos-vorazes/)
 
 ## 🕊️ Tema
 
